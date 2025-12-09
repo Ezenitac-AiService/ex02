@@ -15,3 +15,14 @@ git push -u origin main
 ```
 
 + work 폴더에서 파일 변경
+  + add
+  + commit
+  + push
+
++ home/ex02 폴더에서
+  + pull
+  + work 폴더의 변경사항이
+  + github 저장소를 통해
+  + home/ex02에 적용
+
++ home/ex02 폴더에서 파일 변경
