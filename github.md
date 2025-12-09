@@ -41,3 +41,5 @@ git push -u origin main
 https://github.com/Ezenitac-AiService
 
 git 저장소에서 변경
+
+온라인에서 작업한 내용
