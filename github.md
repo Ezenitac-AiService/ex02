@@ -32,8 +32,10 @@ git push -u origin main
   + github 저장소의 내용으로 git 저장소를 최신화
     + github 저장소 내용과, git 저장소 내용이 충돌이 발생할 경우
     + 충돌을 해결해야, push가 가능합니다
-    
+
 ```bash
 git pull origin main
 git push -u origin main
 ```
+
+https://github.com/Ezenitac-AiService
