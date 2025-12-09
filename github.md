@@ -26,3 +26,7 @@ git push -u origin main
   + home/ex02에 적용
 
 + home/ex02 폴더에서 파일 변경
+
+```bash
+git pull origin main
+```
