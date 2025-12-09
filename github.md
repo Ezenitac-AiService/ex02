@@ -39,3 +39,6 @@ git push -u origin main
 ```
 
 https://github.com/Ezenitac-AiService
+
+
+온라인에서 작업한 내용
